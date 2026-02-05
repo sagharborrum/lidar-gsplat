@@ -1,0 +1,9 @@
+# Local tools (data preparation)
+opencv-python
+scipy
+numpy
+tqdm
+
+# GPU training (install on RunPod/CUDA machine)
+# torch
+# gsplat==1.5.3
